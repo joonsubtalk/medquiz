@@ -1,0 +1,13 @@
+body {
+  padding-top: 50px;
+}
+.main-prompt {
+  padding: 40px 15px;
+  text-align: center;
+}
+.main-answer {
+  margin: 0 auto;
+  width: 640px;
+  text-align: left;
+  font-size: 18px;
+}
